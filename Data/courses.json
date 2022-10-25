@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Python",
+        "id": 1,
+        "img": "https://ourcodeworld.com/public-media/articles/articleocw-5c6632dd1fe9f.jpg"
+    },
+    {
+        "name": "C Programing",
+        "id": 2,
+        "img": "https://www.thecrazyprogrammer.com/wp-content/uploads/2015/09/Learn-C-Programming-for-Beginners.jpg"
+    },
+    {
+        "name": "Java",
+        "id": 3,
+        "img": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/02/Introduction-to-Java-Programming-language.png"
+    },
+    {
+        "name": "Koltin",
+        "id": 4,
+        "img": "https://miro.medium.com/max/1200/1*8YPjY2xhNwQylBBs8dYB0g.png"
+    },
+    {
+        "name": "JavaScript",
+        "id": 5,
+        "img": "https://miro.medium.com/max/1200/1*7iBCNSO8w2BHGUdiW39vjw.jpeg"
+    },
+    {
+        "name": "PHP",
+        "id": 6,
+        "img": "https://www.2440media.com/sites/default/files/assets/images/blog/The%20Best%20Software%20For%20PHP%20Coding.jpg"
+    },
+    {
+        "name": "GO Programming",
+        "id": 7,
+        "img": "https://www.softwebsolutions.com/wp-content/uploads/2020/10/golang-Programing.jpg"
+    },
+    {
+        "name": "Swift",
+        "id": 8,
+        "img": "https://i.pinimg.com/originals/9d/94/a5/9d94a53738b84d6c0e5ab094bcfe2af1.png"
+    },
+    {
+        "name": "C# Programming",
+        "id": 9,
+        "img": "https://static.techspot.com/images2/news/bigimage/2019/09/2019-09-16-image-24.jpg"
+    },
+    {
+        "name": "Scala Programming",
+        "id": 10,
+        "img": "https://miro.medium.com/max/1400/1*QtOyg7rBOnuPU0tehyNt7w.jpeg"
+    },
+    {
+        "name": "TypeScript",
+        "id": 11,
+        "img": "https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png"
+    }
+]
